@@ -11,20 +11,13 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/iamhengofficial" target="blank">
-    <img src="https://img.shields.io/twitter/follow/iamhengofficial?logo=twitter&style=for-the-badge" alt="iamhengofficial" />
-  </a>
-</p>
-
 ---
 
-- 🌱 I’m currently learning **new frameworks and courses.**
-- 👨‍💻 All of my projects are available at [www.loemheng.com](http://www.loemheng.com)
-- 📝 I regularly write articles on [www.intimegaming.com](http://www.intimegaming.com)
-- 💬 Ask me about **coding, gaming, or making money online.**
-- 📫 How to reach me **hengloem.pnc@gmail.com**
-- ⚡ Fun fact: **I believe I have a handsome appearance.**
+- 🌱 I currently work as a System Development Supervisor at **[Fortune Life Insurance PLC](https://fortunelife.com.kh/)**.
+- 👨‍💻 All of my projects are available at **[www.loemheng.com](http://www.loemheng.com)**.
+- 💬 Ask me everything about **coding**.
+- 📫 How to reach me **hengloem.pnc@gmail.com**.
+- ⚡ Fun fact: **I believe I have a handsome appearance**.
 
 ---
 
