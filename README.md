@@ -1,20 +1,8 @@
 ## Hi 👋 I’m Heng
 
-**Software Developer | Angular & TypeScript**
-
-* 🔭 Working on company projects
-* 🌱 Learning **AI** since 2025
-* 💬 Angular, TypeScript, SQL
-* 📫 **[info@loemheng.com](mailto:info@loemheng.com)**
-  
----
-
-### 🛠 Tech
-
-Angular · TypeScript · JavaScript · SQL · Node.js · Git
-
----
-
-### 🔗 Connect
-
-<a href="https://loemheng.com/home">My Official Website</a> · <a href="https://linkedin.com/in/hengloem">LinkedIn</a>
+* 🔭 Currently working on company projects
+* 🌱 Exploring **AI** since 2025
+* 💬 Skilled in Angular, TypeScript, and SQL
+* 📫 Reach me at **[info@loemheng.com](mailto:info@loemheng.com)**
+* 👷 Tech stack: Angular · TypeScript · JavaScript · SQL · Node.js · Python · Git
+* 🌐 Website: [https://loemheng.com/home](https://loemheng.com/home)
